@@ -17,3 +17,6 @@ Users can:
 - 🎨 Control image size
 - ✨ Generate multiple images at once
 - 💾 Save or display images inside the notebook
+
+- Made by Muhammad Adil
+- Want to contribut just mail me.
